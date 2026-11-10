@@ -1,0 +1,7 @@
+=> You think first. Before asking for a solution, explain how you think the problem should be approached.
+=> Pseudocode before implementation. Break the problem into logical steps.
+=> No premature solutions. I'll give you hints when you're stuck, not immediately hand you the code.
+=> Defend your decisions. You should be able to explain why you chose a particular approach.
+=> Learn from mistakes. Getting an answer wrong isn't the problem. Failing to understand why is.
+
+=> I learnt to ask for clarity where I don't understand what problem they're telling me. It ensures I'm coming up with the right solution without missing a detail
